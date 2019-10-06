@@ -35,4 +35,3 @@ or for advanced users, [How to use the 3D / Pro Mode] (https://www.youtube.com/w
 
 ![litto logo](logo.png "litto.work")
 
-![artivive](https://image.futurezone.at/images/cfs_landscape_1864w_1049h/2824607/artivive_logo12.jpg "artivive")
