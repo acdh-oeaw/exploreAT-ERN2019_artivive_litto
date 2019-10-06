@@ -13,8 +13,11 @@ Use simple white carton and glue it to a cube togehter, take a small LED light a
 
 ![03](03_PS.png "Photoshop")
 Important: Frames should have a counting number system, e.g. 01 to 08 (or the number of the last frame, in that case it is 08) 
-3.1 Add the files with the Script LOAD FILES INTO STACK. then ypu collect all the files you want to add and load it into Photoshop
+
+3.1 Add the files with the Script LOAD FILES INTO STACK. then collect all the files you want to add and load it into Photoshop
+
 3.2 In the layer options you will see your files, check if they are in the right order: 01 should be on the top and 08 on the bottom of the layers. 
+
 3.3 Now go to workspace Motion and click on the button 'create frame animation', then go to the burger menu and press 'make frames from layers' 
 
 ![04](04_render.png "Photoshop")
