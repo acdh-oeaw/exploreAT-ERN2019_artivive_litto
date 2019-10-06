@@ -29,9 +29,9 @@ Time to make your first AR Artwork with [Artivive](https://artivive.com/)
 
 ## This two Video Tutorials will guide you through the process.
 
-See the tutorial how to use Artivive: [Stop Motion Tutorial] (https://www.youtube.com/watch?v=t_pwfmmJqiI)
+See the tutorial how to use Artivive: * [Stop Motion Tutorial] (https://www.youtube.com/watch?v=t_pwfmmJqiI) 
 
-or for advanced users, [How to use the 3D / Pro Mode] (https://www.youtube.com/watch?v=xjUqfdRpwx0) 
+or for advanced users, * [How to use the 3D / Pro Mode] (https://www.youtube.com/watch?v=xjUqfdRpwx0) 
 
 ![litto logo](logo.png "litto.work")
 
