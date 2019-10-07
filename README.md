@@ -1,6 +1,7 @@
 
-# Artivive Workshop
-## How to do Stop-Motion with Photoshop
+#Artivive Workshop
+##European Researchers‘ Night
+##How to do Stop-Motion with Photoshop
 
 1. Build a Lightbox 
 ![litto logo](01_build Lightbox "lightbox")
@@ -25,16 +26,24 @@ Important: Frames should have a counting number system, e.g. 01 to 08 (or the nu
 Now you should have your first animation ready. By clicking on the Play button you can test the animation. 
 If you are happy with the result, go to export and render out animation.
 
-## First Artivive Project
+##First Artivive Project
 ![Artivive](04_artivive.jpg "Artivive First Steps")
 
 Time to make your first AR Artwork with [Artivive](https://artivive.com/) 
 
-## This two Video Tutorials will guide you through the process.
+##This two Video Tutorials will guide you through the process.
 
 See the tutorial how to use Artivive: [Stop Motion Tutorial](https://www.youtube.com/watch?v=t_pwfmmJqiI) 
 
 or for advanced users, [How to use the 3D / Pro Mode](https://www.youtube.com/watch?v=xjUqfdRpwx0) 
 
+
+##Result of the Workshop 
+
+Target image: 
+hold your phone with artivive app open to the screen and see the result ;)
+![TargetImage](apple_target_02.jpg "TargetImage")
+
+Animation: [AppleAnimation](https://youtu.be/m6Ak0H94XLA) 
 ![litto logo](logo.png "litto.work")
 
